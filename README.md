@@ -5,6 +5,3 @@
 </a>
 </p>
 <br/>
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=redducc&theme=redical">
-</p> 
